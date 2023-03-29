@@ -128,7 +128,251 @@
       "id": 2
     }
   ],
-  "users": [],
+  "users": [
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 1
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 2
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 3
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 4
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 5
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 6
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 7
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 8
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 9
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 10
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 11
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 12
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 13
+    },
+    {
+      "dogName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 14
+    },
+    {
+      "userName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 15
+    },
+    {
+      "userName": "Byron",
+      "dogBreed": "Poodle",
+      "id": 16
+    },
+    {
+      "userName": "Byron",
+      "userE": "Poodle",
+      "id": 17
+    },
+    {
+      "userName": "Byron",
+      "userE": "Poodle",
+      "id": 18
+    },
+    {
+      "userName": "Byron",
+      "userEmail": "Poodle",
+      "id": 19
+    },
+    {
+      "userName": "",
+      "userEmail": "Poodle",
+      "id": 20
+    },
+    {
+      "name": "",
+      "userEmail": "Poodle",
+      "id": 21
+    },
+    {
+      "name": "",
+      "userEmail": "Poodle",
+      "id": 22
+    },
+    {
+      "name": "",
+      "userEmail": "Poodle",
+      "id": 23
+    },
+    {
+      "name": "",
+      "userEmail": "Poodle",
+      "id": 24
+    },
+    {
+      "name": "",
+      "email": "Poodle",
+      "id": 25
+    },
+    {
+      "name": "Steve",
+      "email": "Poodle",
+      "id": 26
+    },
+    {
+      "name": "Steve",
+      "email": "Poodle",
+      "id": 27
+    },
+    {
+      "name": "Steve",
+      "email": "",
+      "id": 28
+    },
+    {
+      "name": "Steve",
+      "email": "steve",
+      "id": 29
+    },
+    {
+      "name": "Steve",
+      "email": "steve@",
+      "id": 30
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 31
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 32
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 33
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 34
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 35
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 36
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 37
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 38
+    },
+    {
+      "id": 39
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 40
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 41
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 42
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 43
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 44
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 45
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 46
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 47
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 48
+    },
+    {
+      "name": "Steve",
+      "email": "steve@steve.com",
+      "id": 49
+    }
+  ],
   "robots": [
     {
       "robotName": "C8-09S100K",
